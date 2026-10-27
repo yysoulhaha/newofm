@@ -1,0 +1,13 @@
+# 运行时状态文件，不入库
+*.bak_*
+*.bak
+catalog.json
+conversation_sessions.json
+model_cooldown.json
+egress_state.json
+node_ip_map.json
+dead_egress.json
+*.log
+
+node_modules/
+.DS_Store
